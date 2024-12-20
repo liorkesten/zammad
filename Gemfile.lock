@@ -28,7 +28,7 @@ GIT
 
 GIT
   remote: https://github.com/zammad-deps/puma/
-  revision: cc750a80f8aee79e6fe69dce2ced1078827549cd
+  revision: 36e847d75f2c1fd8b77ab20d5bcc962c400fc2df
   branch: linux-stack-trace
   specs:
     puma (9.9.9)
